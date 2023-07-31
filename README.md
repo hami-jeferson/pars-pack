@@ -1,6 +1,6 @@
 # Subscription Sync Service
 
-![Subscription Sync Service Logo](link-to-your-logo-image-if-available)
+
 
 ## Description
 
